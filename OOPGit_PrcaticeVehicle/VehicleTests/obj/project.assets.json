@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "OOPGit_PrcaticeVehicle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/OOPGit_PrcaticeVehicle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOPGit_PrcaticeVehicle.dll": {}
+        }
       }
     }
   },
@@ -4618,12 +4628,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "OOPGit_PrcaticeVehicle/1.0.0": {
+      "type": "project",
+      "path": "../OOPGit_PrcaticeVehicle/OOPGit_PrcaticeVehicle.csproj",
+      "msbuildProject": "../OOPGit_PrcaticeVehicle/OOPGit_PrcaticeVehicle.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
+      "OOPGit_PrcaticeVehicle >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4652,7 +4668,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\OOPGitPractice\\OOPGit_PracticeVehicle\\OOPGit_PrcaticeVehicle\\OOPGit_PrcaticeVehicle\\OOPGit_PrcaticeVehicle.csproj": {
+              "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\OOPGitPractice\\OOPGit_PracticeVehicle\\OOPGit_PrcaticeVehicle\\OOPGit_PrcaticeVehicle\\OOPGit_PrcaticeVehicle.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
