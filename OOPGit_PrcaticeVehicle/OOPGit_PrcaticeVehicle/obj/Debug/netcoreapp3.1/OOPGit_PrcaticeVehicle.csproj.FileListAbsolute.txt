@@ -1,0 +1,13 @@
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.exe
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.deps.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.runtimeconfig.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.runtimeconfig.dev.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.dll
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\bin\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.pdb
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.csprojAssemblyReference.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.AssemblyInfoInputs.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.AssemblyInfo.cs
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.dll
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.pdb
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\OOPGitPractice\OOPGit_PracticeVehicle\OOPGit_PrcaticeVehicle\OOPGit_PrcaticeVehicle\obj\Debug\netcoreapp3.1\OOPGit_PrcaticeVehicle.genruntimeconfig.cache
