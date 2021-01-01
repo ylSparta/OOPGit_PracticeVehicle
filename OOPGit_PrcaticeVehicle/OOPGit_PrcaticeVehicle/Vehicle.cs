@@ -2,8 +2,10 @@
 
 namespace OOPGit_PrcaticeVehicle
 {
-    class Program
+    public class Vehicle
     {
+        private int _capacity;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
